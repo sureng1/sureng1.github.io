@@ -1,1 +1,10 @@
-# sureng1.github.io
+---
+layout: home
+title: About me
+permalink: /
+---
+
+## My Profile
+hello
+### name
+### education
