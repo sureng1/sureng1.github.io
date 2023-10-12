@@ -72,3 +72,5 @@ plugins:
   - jekyll-readme-index
   - jemoji
 
+tracker:
+  google_analytics: "G-CS6418F8M4"
